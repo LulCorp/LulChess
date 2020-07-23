@@ -1,0 +1,8 @@
+<templateSet group="plain">
+  <template name="gdxlog" value="private static final Logger log = new Logger($CLASS_NAME$.class.getName(), Logger.DEBUG);" description="Create Gdx Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
