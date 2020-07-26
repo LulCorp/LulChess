@@ -3,5 +3,11 @@
     <account id="e41fc26b-2786-496d-a84d-7fb8a4870b57" name="n3ttz">
       <server host="github.com" />
     </account>
+    <account id="26e5dff7-6320-4c79-b2c9-54ea47d7042a" name="Bilal.Bohlmann@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
